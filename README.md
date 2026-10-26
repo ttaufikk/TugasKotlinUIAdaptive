@@ -1,6 +1,6 @@
 # TugasKotlinUIAdaptive
-Tugas pemrograman mobile membuat aplikasi kotlin dengan UI adpative dengan jetpack compose
-cara membuka di android studio : 
+Tugas pemrograman mobile membuat aplikasi kotlin dengan UI adpative dengan jetpack compose.
+- cara membuka di android studio : 
 1. extract zip
 2. open project di android studio
 3. buka folder studentplanner_jetpackcompose
